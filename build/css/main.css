@@ -65,6 +65,35 @@
   text-align: center;
   padding-top: 40px; }
 
+.fifthy {
+  background: url(../img/Livello_5.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  color: #ffffff; }
+
+.subscribe {
+  margin: 0;
+  padding-top: 350px;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 3.6px; }
+
+.input {
+  padding-bottom: 350px; }
+  .input input {
+    padding: 10px;
+    margin: 0;
+    border-radius: 3px 0 0 3px;
+    text-transform: uppercase; }
+  .input button {
+    border-radius: 0 3px 3px 0;
+    background-color: #16a085;
+    color: #ffffff;
+    padding: 10px; }
+
 body {
   font-family: 'Varela Round', sans-serif; }
 
