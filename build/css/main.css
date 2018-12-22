@@ -26,7 +26,8 @@
 .third {
   display: flex;
   background-color: #ffffff;
-  padding: 90px 120px 0; }
+  padding: 90px 120px 0;
+  max-height: 390px; }
 
 .iphone {
   padding-right: 300px; }
@@ -41,6 +42,31 @@
   background-color: #16a085;
   padding: 20px 30px;
   margin: 25px 0 45px; }
+
+.slider {
+  color: #373737;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1.8px; }
+
+.fourth {
+  padding: 90px 120px 0;
+  background-color: #f5f6f7;
+  max-height: 390px; }
+
+.slide {
+  text-align: end;
+  color: #000000; }
+
+.content {
+  display: flex; }
+
+.community {
+  text-align: center;
+  padding-top: 40px; }
+
+body {
+  font-family: 'Varela Round', sans-serif; }
 
 .menu {
   text-align: center; }
